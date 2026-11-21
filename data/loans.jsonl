@@ -1,0 +1,7 @@
+{"loan":"x-desk-0-0","person":"U0","original_duty":"desk-0-0","new_site":"port","start":"2026-10-28T05:00:00+00:00","stop":"2026-10-28T08:00:00+00:00","evidence":"conflict"}
+{"loan":"x-desk-2-2","person":"U6","original_duty":"desk-2-2","new_site":"port","start":"2026-10-30T06:00:00+00:00","stop":"2026-10-30T09:00:00+00:00","evidence":"confirmed"}
+{"loan":"x-desk-3-1","person":"U5","original_duty":"desk-3-1","new_site":"port","start":"2026-10-31T07:00:00+00:00","stop":"2026-10-31T10:00:00+00:00","evidence":"conflict"}
+{"loan":"x-desk-4-0","person":"U4","original_duty":"desk-4-0","new_site":"port","start":"2026-11-01T06:00:00+00:00","stop":"2026-11-01T09:00:00+00:00","evidence":"confirmed"}
+{"loan":"x-desk-6-2","person":"U1","original_duty":"desk-6-2","new_site":"port","start":"2026-11-03T07:00:00+00:00","stop":"2026-11-03T10:00:00+00:00","evidence":"conflict"}
+{"loan":"x-desk-7-1","person":"U0","original_duty":"desk-7-1","new_site":"port","start":"2026-11-04T08:00:00+00:00","stop":"2026-11-04T11:00:00+00:00","evidence":"confirmed"}
+{"loan":"x-desk-8-0","person":"U8","original_duty":"desk-8-0","new_site":"port","start":"2026-11-05T07:00:00+00:00","stop":"2026-11-05T10:00:00+00:00","evidence":"confirmed"}

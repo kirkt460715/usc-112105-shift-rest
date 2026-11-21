@@ -1,0 +1,70 @@
+{
+  "operators": [
+    "person",
+    "comparison_group",
+    "qualifications",
+    "timezone"
+  ],
+  "duties": [
+    "duty",
+    "person",
+    "site",
+    "role",
+    "start",
+    "stop",
+    "mandatory"
+  ],
+  "clock": [
+    "record",
+    "person",
+    "site",
+    "start",
+    "stop",
+    "state",
+    "duty"
+  ],
+  "loans": [
+    "loan",
+    "person",
+    "original_duty",
+    "new_site",
+    "start",
+    "stop",
+    "evidence"
+  ],
+  "breaks": [
+    "break",
+    "person",
+    "duty",
+    "start",
+    "stop",
+    "evidence",
+    "recall_at"
+  ],
+  "agreements": [
+    "rule",
+    "scope",
+    "window_hours",
+    "required_free_minutes",
+    "minimum_coverage",
+    "dedup_group",
+    "compensation_minutes"
+  ],
+  "next_shifts": [
+    "shift",
+    "plan",
+    "site",
+    "role",
+    "start",
+    "stop",
+    "candidates",
+    "mandatory"
+  ],
+  "rest_promises": [
+    "promise",
+    "person",
+    "start",
+    "stop",
+    "source_duty"
+  ]
+}

@@ -1,0 +1,2 @@
+{"rule":"standard","scope":"all","window_hours":8,"required_free_minutes":40,"minimum_coverage":0.75,"dedup_group":"continuous","compensation_minutes":45}
+{"rule":"overnight","scope":"night","window_hours":7,"required_free_minutes":50,"minimum_coverage":0.8,"dedup_group":"continuous","compensation_minutes":60}
