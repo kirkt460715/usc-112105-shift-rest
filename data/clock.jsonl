@@ -31,5 +31,5 @@
 {"record":"time-desk-9-0","person":"U0","site":"north","start":"2026-11-05T23:00:00+00:00","stop":"2026-11-06T07:00:00+00:00","state":"onsite","duty":"desk-9-0"}
 {"record":"time-desk-9-1","person":"U2","site":"south","start":"2026-11-06T00:00:00+00:00","stop":"2026-11-06T09:00:00+00:00","state":"onsite","duty":"desk-9-1"}
 {"record":"time-desk-9-2","person":"U4","site":"port","start":"2026-11-05T23:00:00+00:00","stop":"2026-11-06T09:00:00+00:00","state":"onsite","duty":"desk-9-2"}
-{"record":"fold-u2-a","person":"U2","site":"south","start":"2026-11-01T01:10:00-04:00","stop":"2026-11-01T01:45:00-05:00","state":"onsite","duty":"desk-4-1"}
-{"record":"fold-u2-b","person":"U2","site":"port","start":"2026-11-01T01:30:00-04:00","stop":"2026-11-01T02:10:00-05:00","state":"standby","duty":"desk-4-1"}
+{"record":"fold-u6-a","person":"U6","site":"south","start":"2026-11-01T01:10:00-04:00","stop":"2026-11-01T01:45:00-05:00","state":"onsite","duty":"desk-4-1"}
+{"record":"fold-u6-b","person":"U6","site":"port","start":"2026-11-01T01:30:00-04:00","stop":"2026-11-01T02:10:00-05:00","state":"standby","duty":"desk-4-1"}
